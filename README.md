@@ -19,24 +19,6 @@ to:
 
 It is using a web frontend which is capable to query the message every 5 seconds.
 
-## Getting Started
-* TBA
-
-### Dependencies
-
-* TBA
-
-### Installing
-
-* TBA
-
-### Executing program
-
-* TBA
-```
-tba(codeblock)
-```
-
 ## Help
 
 Any advise for common problems or issues.
@@ -66,6 +48,18 @@ Altin Kelmendi (wi21b054@technikum-wien.at)
 
 * 0.1
     * Initial Commit
+* 1.0
+    * Added Features
+    * Bugs fixed
+
+* 1.1.1
+    * Added controller
+    * Bugs fixed
+
+* 1.1.2
+    * Frontend change
+    * Bugs fixed
+    
 
 ## License
 
