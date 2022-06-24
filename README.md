@@ -47,7 +47,7 @@ localhost:8080/api/monitoring/(your Message)
 ```
 Then open Web
 ```
-http://localhost:63342/SLM_MaintenanceMonitorV10/templates/MonitorTheme.html?_ijt=3qds72o1dgl98d85k9g37cj5ug&_ij_reload=RELOAD_ON_SAVE
+http://localhost:63342/MaintenanceMonitor_V1.1.2/templates/theme.html?_ijt=peokies9k0mj8i52jms2qrkqka&_ij_reload=RELOAD_ON_SAVE
 ```
 and your Message will be shown :)
 
